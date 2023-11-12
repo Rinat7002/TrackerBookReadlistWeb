@@ -1,0 +1,36 @@
+body {
+    background-color: #483D8B; /* Или #8000FF */
+    }
+
+
+
+.name-web-site {
+    margin-left: 550px;
+}
+
+
+#myInput, #myButton, #myList {
+    margin: 0 auto;
+    display: block;
+}    
+
+#myInput {
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    }
+
+#myButton {
+    background-color: lightgreen;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+    
+
+
+    
